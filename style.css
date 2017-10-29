@@ -1,0 +1,17 @@
+#tableHeadings{
+    display: inline-block;
+    height:20px;
+    width:800px;
+    border: 1px solid black;
+}
+#AddUserForm{
+    width:350px;
+}
+h1{
+    border-bottom: 1px solid darkgray;
+}
+input{
+    border-color: gray;
+    margin:6px;
+    display: block;
+}
